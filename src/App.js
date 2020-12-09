@@ -1,6 +1,5 @@
 import React, { Component, useState , useRef} from 'react'
-import "./components/InfoBox"
-import InfoBox from './components/InfoBox';
+
 import "./App.css";
 
 export class App extends Component {
@@ -25,7 +24,7 @@ export class App extends Component {
   componentDidMount() {
     this.timer()
     
-    document.title = "webinaret starter om ikke så lenge";
+    document.title = "React countdown timer";
   }
   componentDidUpdate() {
     
