@@ -110,7 +110,7 @@ export class App extends Component {
               <i className=" mt-4 fab fa-react mr-3 fa-8x timer-icon"></i>
               <h2>Countdown timer</h2>
 
-              <p>Buildt in React</p>
+              <p>Built in React</p>
               </div>
 
             <div>
