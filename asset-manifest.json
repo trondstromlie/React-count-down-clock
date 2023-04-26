@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-count-down-clock/static/css/main.b24b7749.chunk.css",
-    "main.js": "/React-count-down-clock/static/js/main.328a653c.chunk.js",
-    "main.js.map": "/React-count-down-clock/static/js/main.328a653c.chunk.js.map",
+    "main.css": "/React-count-down-clock/static/css/main.79915ca4.chunk.css",
+    "main.js": "/React-count-down-clock/static/js/main.b8dbfe00.chunk.js",
+    "main.js.map": "/React-count-down-clock/static/js/main.b8dbfe00.chunk.js.map",
     "runtime-main.js": "/React-count-down-clock/static/js/runtime-main.2b0d8e40.js",
     "runtime-main.js.map": "/React-count-down-clock/static/js/runtime-main.2b0d8e40.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/React-count-down-clock/static/css/2.20aa2d7b.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.88a69247.chunk.js.map": "/React-count-down-clock/static/js/3.88a69247.chunk.js.map",
     "index.html": "/React-count-down-clock/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/React-count-down-clock/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.b24b7749.chunk.css.map": "/React-count-down-clock/static/css/main.b24b7749.chunk.css.map",
+    "static/css/main.79915ca4.chunk.css.map": "/React-count-down-clock/static/css/main.79915ca4.chunk.css.map",
     "static/js/2.9c546212.chunk.js.LICENSE.txt": "/React-count-down-clock/static/js/2.9c546212.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b0d8e40.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.9c546212.chunk.js",
-    "static/css/main.b24b7749.chunk.css",
-    "static/js/main.328a653c.chunk.js"
+    "static/css/main.79915ca4.chunk.css",
+    "static/js/main.b8dbfe00.chunk.js"
   ]
 }
